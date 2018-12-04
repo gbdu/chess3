@@ -1,0 +1,8 @@
+B:\code\C#\Gess\obj\Debug\Gess.exe
+B:\code\C#\Gess\obj\Debug\Gess.pdb
+B:\code\C#\Gess\bin\Debug\Gess.exe
+B:\code\C#\Gess\bin\Debug\Gess.pdb
+B:\code\C#\Gess\obj\Debug\ResolveAssemblyReference.cache
+B:\code\C#\Gess\obj\Debug\Gess.Properties.Resources.resources
+B:\code\C#\Gess\obj\Debug\Gess.csproj.GenerateResource.Cache
+B:\code\C#\Gess\obj\Debug\Gess.MainForm.resources
